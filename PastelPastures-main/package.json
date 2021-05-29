@@ -1,0 +1,25 @@
+{
+  "name": "pastelpastures",
+  "version": "1.0.0",
+  "description": "Federal Reserve Code-A-Thon 2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selester12/PastelPastures.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/selester12/PastelPastures/issues"
+  },
+  "homepage": "https://github.com/selester12/PastelPastures#readme",
+  "dependencies": {
+    "expo": "^39.0.3",
+    "react-native-circular-progress": "^1.3.6",
+    "react-native-paper": "^4.2.0",
+    "react-native-svg": "^12.1.0"
+  }
+}

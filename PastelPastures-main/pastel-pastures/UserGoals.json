@@ -1,0 +1,17 @@
+{
+    "userGoals": [{
+        "name": "Do an Exercise Routine",
+        "completed": false,
+        "bp": 15
+    },
+    {
+        "name": "Meditate for 10 minutes",
+        "completed": true,
+        "bp": 10
+    },
+    {
+        "name": "Get enough sleep",
+        "completed": false,
+        "bp": 10
+    }]
+}
